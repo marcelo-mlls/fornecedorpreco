@@ -1,5 +1,5 @@
    
-# API de redirecionamento de links
+# Forncedores
 
 Simula o recebimento de uma chamada por cnpj, devolve a listagem de preços do fornecedor.
 
